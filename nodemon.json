@@ -1,0 +1,7 @@
+{
+  "watch": ["*.js"],
+  "ext": "js,json",
+  "ignore": ["node_modules/", "sed*"],
+  "delay": "500",
+  "verbose": true
+}
